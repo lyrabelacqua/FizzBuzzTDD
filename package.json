@@ -1,0 +1,23 @@
+{
+  "name": "fizzbuzztdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyrabelacqua/FizzBuzzTDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyrabelacqua/FizzBuzzTDD/issues"
+  },
+  "homepage": "https://github.com/lyrabelacqua/FizzBuzzTDD#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
