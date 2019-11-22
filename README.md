@@ -1,5 +1,7 @@
 # FizzBuzzTDD
-Written for Guestline's FizzBuzz Challenge [annouced on 18.11.2019 during 4developers conference]
+Written for Guestline's FizzBuzz Challenge [annouced on 18.11.2019 during 4developers conference].
+
+
 Written using Javascript and Jest.
 
 # Setup 
